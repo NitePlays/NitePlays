@@ -2,14 +2,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed.</h1>
 <h3 align="center">I'm a Developer from Saudi Arabia.</h3>
 
-<p align="center">
-
-<a href="https://dsc.bio/nanotect">
-  <img src="https://lanyard-profile-readme.vercel.app/api/510700800641597440?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
-</a>
-
-</p>
-
 ## 🙋‍♂️ About Me
 
 
